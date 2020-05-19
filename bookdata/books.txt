@@ -1,0 +1,79 @@
+{"_id":{"$numberLong":"3"},"pageCount":0,"isbn":"1617290084","publishedDate":"2011-06-03","title":"Specification by Example","status":"PUBLISH","authors":["Gojko Adzic"]}
+{"_id":{"$numberLong":"18"},"pageCount":504,"isbn":"1884777686","publishedDate":"1998-06-01","title":"Distributed Application Development with PowerBuilder 6.0","status":"PUBLISH","authors":["Michael J. Barlotta"]}
+{"_id":{"$numberLong":"41"},"pageCount":325,"isbn":"1617291269","publishedDate":"2013-11-01","title":"iOS in Practice","status":"PUBLISH","authors":["Bear P. Cahill"]}
+{"_id":{"$numberLong":"73"},"pageCount":500,"isbn":"193518296X","publishedDate":"2012-04-13","title":"Spring Roo in Action","status":"PUBLISH","authors":["Ken Rimple","Srini Penchikala"]}
+{"_id":{"$numberLong":"74"},"pageCount":0,"isbn":"1617290270","publishedDate":"2012-07-27","title":"SOA Governance in Action","status":"PUBLISH","authors":["Jos Dirksen"]}
+{"_id":{"$numberLong":"117"},"pageCount":0,"isbn":"1932394524k-e","publishedDate":"2005-03-01","title":"Managing Components with Modeler","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"118"},"pageCount":0,"isbn":"1932394524l-e","publishedDate":"2005-03-01","title":"Command-line Processing with CLI","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"119"},"pageCount":0,"isbn":"1932394524m-e","publishedDate":"2005-03-01","title":"Understanding and Using Chain","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"120"},"pageCount":0,"isbn":"1932394524n-e","publishedDate":"2005-03-01","title":"Working with the Logging and Discovery Components","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"121"},"pageCount":0,"isbn":"1932394524b-e","publishedDate":"2005-03-01","title":"Uploading files with FileUpload","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"122"},"pageCount":0,"isbn":"1932394524c-e","publishedDate":"2005-03-01","title":"Handling Protocols with the Net Component","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"123"},"pageCount":0,"isbn":"1932394524d-e","publishedDate":"2005-03-01","title":"XML Parsing with Digester","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"124"},"pageCount":0,"isbn":"1932394524e-e","publishedDate":"2005-03-01","title":"JXPath and Betwixt: Working with XML","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"125"},"pageCount":0,"isbn":"1932394524f-e","publishedDate":"2005-03-01","title":"Val_idating Data with Val_idator","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"126"},"pageCount":0,"isbn":"1932394524g-e","publishedDate":"2005-03-01","title":"Enhancing Java Core Libraries with Collections","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"127"},"pageCount":0,"isbn":"1932394524h-e","publishedDate":"2005-03-01","title":"Enhancing Java Core Libraries with BeanUtils and Lang","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"128"},"pageCount":0,"isbn":"1932394524i-e","publishedDate":"2005-03-01","title":"Pool and DBCP: Creating and Using Object Pools","status":"PUBLISH","authors":["Vikram Goyal"]}
+{"_id":{"$numberLong":"147"},"pageCount":0,"isbn":"1617290262","publishedDate":"2012-12-29","title":"Metaprogramming in .NET","status":"PUBLISH","authors":["Kevin Hazzard","Jason Bock"]}
+{"_id":{"$numberLong":"178"},"pageCount":350,"isbn":"1935182579","publishedDate":"2013-02-04","title":"Effective Unit Testing","status":"PUBLISH","authors":["Lasse Koskela"]}
+{"_id":{"$numberLong":"196"},"pageCount":0,"isbn":"1935182498","publishedDate":"2012-04-11","title":"MacRuby in Action","status":"PUBLISH","authors":["Brendan G. Lim with Jerry Cheung","Jeremy McAnally"]}
+{"_id":{"$numberLong":"217"},"pageCount":0,"isbn":"1935182854","publishedDate":"2011-12-01","title":"Tika in Action","status":"PUBLISH","authors":["Chris A. Mattmann","Jukka L. Zitting"]}
+{"_id":{"$numberLong":"232"},"pageCount":848,"isbn":"9781935182047","publishedDate":"2009-11-01","title":"SQL Server MVP Deep Dives","status":"PUBLISH","authors":["Paul Nielsen","Kalen Delaney","Greg Low","Adam Machanic","Paul S. Randal","","Kimberly L. Tripp"]}
+{"_id":{"$numberLong":"237"},"pageCount":375,"isbn":"1935182684","publishedDate":"2011-10-05","title":"Mahout in Action","status":"PUBLISH","authors":["Sean Owen","Robin Anil","Ted Dunning","","Ellen Friedman"]}
+{"_id":{"$numberLong":"249"},"pageCount":925,"isbn":"1617290319","publishedDate":"2012-06-01","title":"Silverlight 5 in Action","status":"PUBLISH","authors":["Pete Brown"]}
+{"_id":{"$numberLong":"251"},"pageCount":0,"isbn":"1935182625","publishedDate":"2011-06-30","title":"Generative Art","status":"PUBLISH","authors":["Matt Pearson"]}
+{"_id":{"$numberLong":"253"},"pageCount":450,"isbn":"1935182803","publishedDate":"2011-11-18","title":"Lift in Action","status":"PUBLISH","authors":["Timothy Perrett"]}
+{"_id":{"$numberLong":"260"},"pageCount":0,"isbn":"1617290122","publishedDate":"2012-07-12","title":"Activiti in Action","status":"PUBLISH","authors":["Tijs Rademakers"]}
+{"_id":{"$numberLong":"265"},"pageCount":0,"isbn":"1935182757","publishedDate":"2013-04-09","title":"Scala in Action","status":"PUBLISH","authors":["Nilanjan Raychaudhuri"]}
+{"_id":{"$numberLong":"275"},"pageCount":200,"isbn":"1935182528","publishedDate":"2010-11-22","title":"The Cloud at Your Service","status":"PUBLISH","authors":["Jothy Rosenberg","Arthur Mateos"]}
+{"_id":{"$numberLong":"282"},"pageCount":0,"isbn":"1617290173","publishedDate":"2011-11-14","title":"OpenCL in Action","status":"PUBLISH","authors":["Matthew Scarpino"]}
+{"_id":{"$numberLong":"286"},"pageCount":375,"isbn":"193518282X","publishedDate":"2011-09-20","title":"Liferay in Action","status":"PUBLISH","authors":["Richard Sezov","Jr"]}
+{"_id":{"$numberLong":"292"},"pageCount":0,"isbn":"1617290114","publishedDate":"2012-04-30","title":"PowerShell and WMI","status":"PUBLISH","authors":["Richard S_iddaway"]}
+{"_id":{"$numberLong":"306"},"pageCount":0,"isbn":"1935182846","publishedDate":"2013-01-21","title":"GWT in Action, Second Edition","status":"PUBLISH","authors":["Adam Tacy","Robert Hanson","Jason Essington","","Anna Tökke"]}
+{"_id":{"$numberLong":"310"},"pageCount":0,"isbn":"1935182951","publishedDate":"2011-10-01","title":"Spring Batch in Action","status":"PUBLISH","authors":["Arnaud Cogoluegnes","Thierry Templier","Gary Gregory","Olivier Bazoud"]}
+{"_id":{"$numberLong":"317"},"pageCount":0,"isbn":"1935182978","publishedDate":"2012-04-20","title":"RabbitMQ in Action","status":"PUBLISH","authors":["Alvaro V_idela","Jason J.W. Williams"]}
+{"_id":{"$numberLong":"513"},"pageCount":0,"isbn":"1617290327","publishedDate":"2014-02-04","title":"Ext JS in Action, Second Edition","status":"PUBLISH","authors":["Jesus Garcia","Grgur Grisogono","","Jacob K. Andresen"]}
+{"_id":{"$numberLong":"514"},"pageCount":0,"isbn":"1617290505","publishedDate":"2011-11-15","title":"Andro_id in Action, Third Edition","status":"PUBLISH","authors":["W. Frank Ableson","Robi Sen","Chris King","C. Enrique Ortiz"]}
+{"_id":{"$numberLong":"517"},"pageCount":0,"isbn":"1617290548","publishedDate":"2013-03-11","title":"Third-Party JavaScript ","status":"PUBLISH","authors":["Ben Vinegar","Anton Kovalyov"]}
+{"_id":{"$numberLong":"551"},"pageCount":0,"isbn":"1617290629","publishedDate":"2014-05-09","title":"CoffeeScript in Action","status":"PUBLISH","authors":["Patrick Lee"]}
+{"_id":{"$numberLong":"559"},"pageCount":750,"isbn":"1617290475","publishedDate":"2011-10-13","title":"SQL Server MVP Deep Dives, Volume 2","status":"PUBLISH","authors":["Kalen Delaney","Louis Dav_idson","Greg Low","Brad McGehee","Paul Nielsen","Paul Randal","","Kimberly Tripp"]}
+{"_id":{"$numberLong":"566"},"pageCount":0,"isbn":"1617290238","publishedDate":"2012-10-02","title":"Hadoop in Practice","status":"PUBLISH","authors":["Alex Holmes"]}
+{"_id":{"$numberLong":"569"},"pageCount":0,"isbn":"1617290521","publishedDate":"2012-11-02","title":"HBase in Action","status":"PUBLISH","authors":["Nicholas Dim_iduk","Amandeep Khurana"]}
+{"_id":{"$numberLong":"571"},"pageCount":0,"isbn":"1617290610","publishedDate":"2012-05-30","title":"Flex Mobile in Action","status":"PUBLISH","authors":["Jonathan Campos"]}
+{"_id":{"$numberLong":"577"},"pageCount":0,"isbn":"1617290432","publishedDate":"2012-11-30","title":"HTML5 for .NET Developers","status":"PUBLISH","authors":["Jim Jackson","II","Ian Gilman"]}
+{"_id":{"$numberLong":"580"},"pageCount":0,"isbn":"1617290564","publishedDate":"2013-06-03","title":"50 Andro_id Hacks","status":"PUBLISH","authors":["Carlos M. Sessa"]}
+{"_id":{"$numberLong":"591"},"pageCount":0,"isbn":"1617290556","publishedDate":"2013-02-20","title":"PowerShell in Depth","status":"PUBLISH","authors":["Don Jones","Richard S_iddaway","","Jeffery Hicks"]}
+{"_id":{"$numberLong":"611"},"pageCount":0,"isbn":"1617290394","publishedDate":"2013-12-29","title":"Linked Data","status":"PUBLISH","authors":["Dav_id Wood","Marsha Za_idman","Luke Ruth","with Michael Hausenblas"]}
+{"_id":{"$numberLong":"620"},"pageCount":0,"isbn":"1617290823","publishedDate":"2014-02-20","title":"Mule in Action, Second Edition","status":"PUBLISH","authors":["Dav_id Dossot","John D'Emic","","Victor Romero"]}
+{"_id":{"$numberLong":"624"},"pageCount":0,"isbn":"1617290750","publishedDate":"2013-09-19","title":"Single Page Web Applications","status":"PUBLISH","authors":["Michael S. Mikowski","Josh C. Powell"]}
+{"_id":{"$numberLong":"628"},"pageCount":0,"isbn":"1617290890","publishedDate":"2013-11-25","title":"The Art of Unit Testing, Second Edition","status":"PUBLISH","authors":["Roy Osherove"]}
+{"_id":{"$numberLong":"629"},"pageCount":0,"isbn":"1617290904","publishedDate":"2014-03-14","title":"Play for Java","status":"PUBLISH","authors":["Nicolas Leroux","Sietse de Kaper"]}
+{"_id":{"$numberLong":"631"},"pageCount":0,"isbn":"1617290920","publishedDate":"2013-12-12","title":"Hello World! Second Edition","status":"PUBLISH","authors":["Warren Sande","Carter Sande"]}
+{"_id":{"$numberLong":"632"},"pageCount":0,"isbn":"1617290866","publishedDate":"2012-12-29","title":"Dart in Action","status":"PUBLISH","authors":["Chris Buckett"]}
+{"_id":{"$numberLong":"634"},"pageCount":0,"isbn":"1617290858","publishedDate":"2013-06-18","title":"Redis in Action","status":"PUBLISH","authors":["Josiah Carlson"]}
+{"_id":{"$numberLong":"636"},"pageCount":0,"isbn":"161729084X","publishedDate":"2013-08-19","title":"Using the TI-83 Plus/TI-84 Plus","status":"PUBLISH","authors":["Christopher R. Mitchell"]}
+{"_id":{"$numberLong":"639"},"pageCount":0,"isbn":"1617290777","publishedDate":"2012-09-14","title":"Programming the TI-83 Plus/TI-84 Plus","status":"PUBLISH","authors":["Christopher R. Mitchell"]}
+{"_id":{"$numberLong":"641"},"pageCount":0,"isbn":"1617290793","publishedDate":"2013-10-03","title":"Play for Scala","status":"PUBLISH","authors":["Peter Hilton","Erik Bakker","","Francisco Canedo"]}
+{"_id":{"$numberLong":"643"},"pageCount":0,"isbn":"1617290955","publishedDate":"2013-10-30","title":"SonarQube in Action","status":"PUBLISH","authors":["G. Ann Campbell","Patroklos P. Papapetrou"]}
+{"_id":{"$numberLong":"644"},"pageCount":0,"isbn":"1617290947","publishedDate":"2013-06-03","title":"Windows Store App Development: C# and XAML","status":"PUBLISH","authors":["Peter M. Brown"]}
+{"_id":{"$numberLong":"645"},"pageCount":0,"isbn":"1617290971","publishedDate":"2013-12-29","title":"Learn Windows IIS in a Month of Lunches","status":"PUBLISH","authors":["Jason C. Helmick"]}
+{"_id":{"$numberLong":"650"},"pageCount":0,"isbn":"161729103X","publishedDate":"2013-08-12","title":"Extending jQuery","status":"PUBLISH","authors":["Keith B. Wood"]}
+{"_id":{"$numberLong":"651"},"pageCount":0,"isbn":"1617291048","publishedDate":"2013-04-02","title":"OCA Java SE 7 Programmer I Certification Gu_ide","status":"PUBLISH","authors":["Mala Gupta"]}
+{"_id":{"$numberLong":"652"},"pageCount":0,"isbn":"1617291056","publishedDate":"2014-03-04","title":"Kanban in Action","status":"PUBLISH","authors":["Marcus Hammarberg","Joakim Sunden"]}
+{"_id":{"$numberLong":"653"},"pageCount":0,"isbn":"1617291021","publishedDate":"2014-03-25","title":"Solr in Action","status":"PUBLISH","authors":["Trey Grainger","Timothy Potter"]}
+{"_id":{"$numberLong":"655"},"pageCount":0,"isbn":"1617291072","publishedDate":"2013-09-03","title":"Making Sense of NoSQL","status":"PUBLISH","authors":["Daniel G. McCreary","Ann M. Kelly"]}
+{"_id":{"$numberLong":"659"},"pageCount":0,"isbn":"1617291080","publishedDate":"2012-11-12","title":"Learn Windows PowerShell in a Month of Lunches, Second Edition","status":"PUBLISH","authors":["Don Jones","Jeffery D. Hicks"]}
+{"_id":{"$numberLong":"662"},"pageCount":0,"isbn":"1617291145","publishedDate":"2013-06-21","title":"AOP in .NET","status":"PUBLISH","authors":["Matthew D. Groves"]}
+{"_id":{"$numberLong":"663"},"pageCount":0,"isbn":"1617291161","publishedDate":"2012-12-12","title":"Learn PowerShell Toolmaking in a Month of Lunches","status":"PUBLISH","authors":["Don Jones","Jeffery Hicks"]}
+{"_id":{"$numberLong":"672"},"pageCount":0,"isbn":"1617291218","publishedDate":"2014-03-05","title":"The Mikado Method","status":"PUBLISH","authors":["Ola Ellnestam","Daniel Brolund"]}
+{"_id":{"$numberLong":"677"},"pageCount":0,"isbn":"1617291250","publishedDate":"2013-08-29","title":"Fast ASP.NET Websites","status":"PUBLISH","authors":["Dean Alan Hume"]}
+{"_id":{"$numberLong":"680"},"pageCount":0,"isbn":"1617291307","publishedDate":"2014-02-18","title":"Gradle in Action","status":"PUBLISH","authors":["Benjamin Muschko"]}
+{"_id":{"$numberLong":"686"},"pageCount":0,"isbn":"161729134X","publishedDate":"2013-09-19","title":"C# in Depth, Third Edition","status":"PUBLISH","authors":["Jon Skeet"]}
+{"_id":{"$numberLong":"691"},"pageCount":0,"isbn":"1617291412","publishedDate":"2014-05-29","title":"The Joy of Clojure, Second Edition","status":"PUBLISH","authors":["Michael Fogus","Chris Houser"]}
+{"_id":{"$numberLong":"692"},"pageCount":0,"isbn":"1617291420","publishedDate":"2014-04-03","title":"iOS 7 in Action","status":"PUBLISH","authors":["Brendan G. Lim","Martin Conte Mac Donell"]}
+{"_id":{"$numberLong":"696"},"pageCount":0,"isbn":"1617291455","publishedDate":"2014-06-10","title":"Ember.js in Action","status":"PUBLISH","authors":["Joachim Haagen Skeie"]}
+{"_id":{"$numberLong":"706"},"pageCount":0,"isbn":"1617291560","publishedDate":"2014-04-02","title":"Practical Data Science with R","status":"PUBLISH","authors":["Nina Zumel","John Mount"]}
+{"_id":{"$numberLong":"723"},"pageCount":0,"isbn":"1617291374","publishedDate":"2013-12-29","title":"Windows Phone 8 in Action","status":"PUBLISH","authors":["Timothy Binkley-Jones","Massimo Perga","Michael Sync","Adam Benoit"]}
+{"_id":{"$numberLong":"728"},"pageCount":0,"isbn":"1617291692","publishedDate":"2014-06-24","title":"The Well-Grounded Rubyist, Second Edition","status":"PUBLISH","authors":["Dav_id A. Black"]}
+{"_id":{"$numberLong":"765"},"pageCount":0,"isbn":"1617292133","publishedDate":"2014-05-02","title":"Learn SQL Server Administration in a Month of Lunches","status":"PUBLISH","authors":["Don Jones"]}
